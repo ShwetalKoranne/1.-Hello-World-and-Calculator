@@ -9,8 +9,8 @@ Theory:
 C++ is a powerful, general-purpose programming language developed as an extension of C. It supports both procedural and object-oriented programming, which makes it suitable for system/software development, game development, real-time simulations, and more.
 
 Key Features:
-Fast and efficient
-Object-oriented (supports classes and objects)
+-->Fast and efficient
+-->Object-oriented (supports classes and objects)
 Rich standard library
 Allows low-level programming (memory management using pointers)
 
