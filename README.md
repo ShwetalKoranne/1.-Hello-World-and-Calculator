@@ -10,11 +10,8 @@ C++ is a powerful, general-purpose programming language developed as an extensio
 
 Key Features:
 Fast and efficient
-
 Object-oriented (supports classes and objects)
-
 Rich standard library
-
 Allows low-level programming (memory management using pointers)
 
 
