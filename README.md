@@ -8,17 +8,14 @@ Theory:
 
 C++ is a powerful, general-purpose programming language developed as an extension of C. It supports both procedural and object-oriented programming, which makes it suitable for system/software development, game development, real-time simulations, and more.
 
-Key Features:
-Fast and efficient
-Object-oriented (supports classes and objects)
-Rich standard library
-Allows low-level programming (memory management using pointers)
+
+Key Features: Fast and efficient, Object-oriented, Rich standard library, Allows low-level programming (memory management using pointers).
 
 
 Single-line comments begin with // and stop at the end of the line.
 
 The line int main() is the main function where program execution begins.
-The line return 0; terminates main( )function and causes it to return the value 0 to the calling process.
+
 
 int main() is the starting point of every C++ program.
 main() is the function where execution begins.
@@ -27,17 +24,13 @@ int means the function will return an integer value.
 The line return 0; terminates main( )function and causes it to return the value 0 to the calling process.
 
 #include <iostream> is a preprocessor directive.
-
 It tells the compiler to include the input-output stream library.
-
 This library lets us use cout and cin for displaying and taking input.
 
 
 using namespace std;
 This line allows us to avoid writing std:: before standard names like cout, cin, etc.
-
 std is the standard C++ namespace that includes all standard functions and classes. Without this line, you’d have to write:
-
 std::cout << "Hello, World!";
 
 
