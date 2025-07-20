@@ -1,0 +1,40 @@
+// Name - Shwetal Koranne
+// PRN - 24070123106
+// Batch - EnTC B2
+// EXP 1.2
+
+#include<iostream>
+using namespace std;
+
+int main(){
+
+    float num1, num2;
+
+    cout<<"Enter Number 1:";
+    cin>>num1;
+    cout<<"Enter Number 2:";
+    cin>>num2;
+
+    int sum=num1+num2;
+    cout<<"Addition is:"<< sum<< endl;
+
+    int sub=num1-num2;
+    cout<<"Subtraction is:"<< sub<< endl;
+
+    int multi=num1*num2;
+    cout<<"Multiplication is:"<< multi<< endl;
+
+    float div=num1/num2;
+    cout<<"Division is:"<< div;
+    
+    return 0;
+}
+
+/* OUTPUT
+Enter Number 1: 4
+Enter Number 2: 8
+Addition is: 12
+Subtraction is: -4
+Multiplication is: 32
+Division is: 0.5 
+*/
