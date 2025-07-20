@@ -1,0 +1,17 @@
+//NAME: Shwetal Koranne
+//PRN: 24070123106
+//Exp-1.1
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    cout<<"Hello World";
+
+    return 0;
+}
+
+
+/*  OUTPUT
+Hello World */
